@@ -1,0 +1,3 @@
+[submodule "experiments/CTDC"]
+	path = configuration/CTC
+	url = https://github.com/royerlab/ultrack_CTC_submission.git

@@ -1,0 +1,5 @@
+ultrack==0.1.0
+gurobipy
+dexp
+napari-dexp
+napari

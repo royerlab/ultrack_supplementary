@@ -1,0 +1,4 @@
+ultrack==0.6.0
+gurobipy
+napari-ome-zarr
+napari
